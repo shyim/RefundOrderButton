@@ -1,0 +1,7 @@
+{
+    "refund-order-button": {
+        "refundButton": "Refund Order",
+        "refundButtonTitle": "Request a refund for this order",
+        "cancelSuccess": "Your order has been successfully cancelled and will be refunded."
+    }
+}

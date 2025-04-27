@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/platform/trunk/src/Core/System/SystemConfig/Schema/config.xsd">
+    <card>
+        <title>Refund Button Settings</title>
+        <title lang="de-DE">Erstattungsknopf Einstellungen</title>
+        
+        <input-field type="bool">
+            <name>showRefundButton</name>
+            <label>Show refund button</label>
+            <label lang="de-DE">Erstattungsknopf anzeigen</label>
+            <defaultValue>true</defaultValue>
+        </input-field>
+    </card>
+</config>

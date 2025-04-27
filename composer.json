@@ -1,0 +1,25 @@
+{
+    "name": "refund-order-button/refund-order-button",
+    "description": "Adds a refund button to the account order history page",
+    "type": "shopware-platform-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RefundOrderButton\\": "src/"
+        }
+    },
+    "extra": {
+        "shopware-plugin-class": "RefundOrderButton\\RefundOrderButton",
+        "label": {
+            "de-DE": "Erstattungsknopf für Bestellungen",
+            "en-GB": "Refund Button for Orders"
+        },
+        "description": {
+            "de-DE": "Fügt einen Erstattungsknopf zur Bestellübersicht hinzu, um Bestellungen zu stornieren",
+            "en-GB": "Adds a refund button to the order history page to cancel orders"
+        }
+    },
+    "require": {
+        "shopware/core": "~6.6.0 || ~6.7.0"
+    }
+}

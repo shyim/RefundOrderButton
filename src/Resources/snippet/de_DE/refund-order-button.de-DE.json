@@ -1,0 +1,7 @@
+{
+    "refund-order-button": {
+        "refundButton": "Bestellung erstatten",
+        "refundButtonTitle": "Eine Erstattung für diese Bestellung anfordern",
+        "cancelSuccess": "Ihre Bestellung wurde erfolgreich storniert und wird erstattet."
+    }
+}
